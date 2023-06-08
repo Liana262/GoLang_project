@@ -1,0 +1,7 @@
+http:
+  port:
+    3000
+mongo:
+  database:
+    name: simple_application_database
+    uri: mongodb://localhost:27017

@@ -1,0 +1,17 @@
+GET localhost:3000/users
+
+###
+
+
+GET localhost:3000/users/643023264b1607ae54bebe8c
+
+###
+
+POST localhost:3000/users
+Content-Type: application/json
+
+{
+  "firstName": "Alina",
+  "lastName": "Valinurova"
+}
+
